@@ -2,7 +2,7 @@
 
 É conjunto de atividades executadas após um **incidente/falha** com o objetivo de **comunicar** as causas do incidente e identificar **lições aprendidas** e **pontos de melhorias**.
 
-Não apontar culpados (blameless).
+Ressalva: Tem por objetivo não apontar culpados (blameless).
 
 ## Descrição breve e amigável do incidente
 
