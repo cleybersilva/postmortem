@@ -12,7 +12,7 @@ linguagem menos técnica, que seus clientes/usuários entenderiam.
 
 Exemplo técnico:
 
-> Um bug introduzido no PR #123 causou uso excessivo de memória do componente X, sobrecarregando o servidor.
+> Um bug introduzido no PR #1234567 causou uso excessivo de memória do componente X, sobrecarregando o servidor.
 
 Exemplo organizacional:
 
@@ -34,15 +34,15 @@ Exemplo:
 
 duração do incidente, usuários afetados, dados perdidos ou vazados.
 
-## Açoes recomendadas
+## Ações recomendadas
 
 cada ação deve ser mapeada para um card/issue. acoes concluídas durante o processo de postmortem devem ser ressaltadas no relatório.
 
-## Anexos: detalhes técnicos
+## Anexos: com detalhes técnicos
 
 mensagens de log, gráficos, erros, capturas de tela, comandos executados.
 
-## Processo de post-mortem stack overflow
+## Processo de post-mortem Stack Overflow de exomplo
 
 Durante o incidente:
 
@@ -58,7 +58,7 @@ Depois do incidente:
 - divulgar relatório internamente
 - caso faça sentido, editar e divulgar publicamente
 
-template do relatório de postmortem
+Template do relatório de postmortem
 
 - Descrição do incidente
 - resumo executivo (o que chefe quer saber)
@@ -67,7 +67,7 @@ template do relatório de postmortem
 - Ações recomendadas (curto e longo prazo, marcar ações realizadas, criar issue para cada ação)
 - Anexos: gráficos de efeitos observados
 
-## resumo para os executivos/liderança
+## Resumo para os executivos/liderança
 
 | | |
 | ----------------------- | ----------- |
