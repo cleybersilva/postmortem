@@ -28,7 +28,7 @@ incluir também tentativas inócuas de resolver o problema. Detalhes de coisas d
 
 Exemplo:
 
-- 2020-10-28 18:08 Roberta avisou aos Devs que ela recebeu emails de onboard, onde apenas ela deveria receber
+- 2024-05-10 16:26 kefferson avisou aos Devs que ele recebeu emails de onboard, onde apenas ele deveria receber
 
 ## Consequências do incidente
 
@@ -36,7 +36,7 @@ duração do incidente, usuários afetados, dados perdidos ou vazados.
 
 ## Ações recomendadas
 
-cada ação deve ser mapeada para um card/issue. acoes concluídas durante o processo de postmortem devem ser ressaltadas no relatório.
+cada ação deve ser mapeada para um card/issue. ações concluídas durante o processo de postmortem devem ser ressaltadas no relatório.
 
 ## Anexos: com detalhes técnicos
 
@@ -71,7 +71,7 @@ Template do relatório de postmortem
 
 | | |
 | ----------------------- | ----------- |
-| Incidente time-frame    | 2020-10-28 18:00 until 2020-10-29 18:00 UTC      |
+| Incidente time-frame    | 2024-05-02 16:28 until 2024-05-05 17:15 UTC      |
 | Worst-case incidente window   | ~14 minutes (between sending the emails and disabling the feature toggle), 16 hours (until we cleaned the email queue)        |
 | Assets/users affected      | Stack overflow for team users       |
 | Incidente Type   | Software failure        |
